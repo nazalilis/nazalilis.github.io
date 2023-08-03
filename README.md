@@ -38,7 +38,7 @@
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <!-- <a href="#memo-license">License</a> &#xa0; | &#xa0; -->
   <a href="https://github.com/nazaliss" target="_blank">Author</a>
 </p>
 
@@ -46,20 +46,20 @@
 
 ## :dart: About
 
-Ini adalah repository utama github pages nazalis. Dapat diakses <a href="https://nazaliss.github.io" target="_blank">di sini</a>.
+This is the main repository of Github Pages Nazalis. Can be accessed <a href="https://nazaliss.github.io" target="_blank">here</a>.
 
 ## :sparkles: Features
 
-:heavy_check_mark: Project yang dibuat Nazalis;\
-:heavy_check_mark: Aplikasi yang sedang berjalan;\
-:heavy_check_mark: Aplikasi yang akan dikembangkan;
+:heavy_check_mark: Project made by Nazaliss;\
+:heavy_check_mark: Applications made by Nazists that can already be used;\
+:heavy_check_mark: Applications that will be developed by Naziss;
 
 ## :rocket: Technologies
 
 The following tools were used in this project:
 
-- [Tailwindcss]()
-- [daisyui]()
+- [Tailwindcss](https://tailwindcss.com/)
+- [daisyui](https://daisyui.com/)
 
 ## :white_check_mark: Requirements
 
@@ -92,13 +92,16 @@ $ npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
 
 ```
 
-How to configure complete can visit the official website from Tailwindcss and Daisyui
-Install and configure Tailwind CSS in [here](https://tailwindcss.com/docs/installation).
-Install Daisyui [here](https://daisyui.com/docs/install/) and configure [here](https://daisyui.com/docs/config/).
+How to configure complete can visit the official website from Tailwindcss and Daisyui.
 
-## :memo: License
+- Install and configure Tailwind CSS in [here](https://tailwindcss.com/docs/installation).
+- Install Daisyui [here](https://daisyui.com/docs/install/) and configure [here](https://daisyui.com/docs/config/).
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+## 👋 Greetings from me
+
+Hello everyone, thank you for visiting my repository, I really expect criticism and suggestions from you for my self -development and maybe others.
+
+<!-- This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file. -->
 
 Made with :heart: by <a href="https://github.com/nazaliss" target="_blank">nazaliss</a>
 
