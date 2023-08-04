@@ -1,110 +1,64 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Nazalis Githup Pages" />
+  <img src="./.github/app.gif" alt="Nazalis Githup" />
 
 &#xa0;
 
-  <!-- <a href="https://portfoliotailwind.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Nazalis Githup Pages</h1>
-
-<p align="center">
-  <!-- <img alt="Github top language" src="https://img.shields.io/github/languages/top/nazaliss/portfolio-tailwind?color=56BEB8"> -->
-
-  <!-- <img alt="Github language count" src="https://img.shields.io/github/languages/count/nazaliss/portfolio-tailwind?color=56BEB8"> -->
-
-  <!-- <img alt="Repository size" src="https://img.shields.io/github/repo-size/nazaliss/portfolio-tailwind?color=56BEB8"> -->
-
-  <!-- <img alt="License" src="https://img.shields.io/github/license/nazaliss/portfolio-tailwind?color=56BEB8"> -->
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/nazaliss/portfolio-tailwind?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/nazaliss/portfolio-tailwind?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/nazaliss/portfolio-tailwind?color=56BEB8" /> -->
-</p>
-
-<!-- Status -->
-
-<!-- <h4 align="center">
-	🚧  Portfolio Tailwind 🚀 Under construction...  🚧
-</h4>
-
-<hr> -->
-
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <!-- <a href="#memo-license">License</a> &#xa0; | &#xa0; -->
-  <a href="https://github.com/nazaliss" target="_blank">Author</a>
-</p>
+<h1 align="center">Nazalis</h1>
 
 <br>
 
-## :dart: About
+## About Me
 
-This is the main repository of Github Pages Nazalis. Can be accessed <a href="https://nazaliss.github.io" target="_blank">here</a>.
+Thank you for visiting my repository. I am a beginner web developer; I learned it self-taught through several YouTube websites and videos. You can see some of my learning outcomes and what I've made so far <a href="https://nazaliss.github.io" target="_blank">here</a>. Sorry if many shortcomings, criticisms, and suggestions from you will really help me develop in the future.
 
-## :sparkles: Features
+I have a small website that you can visit <a href="https://nazalis.com" target="_blank">here</a>. Apart from Nazali's Github, you can also see some of the things I made <a href="https://nazalis.my.id" target="_blank">here</a>. Once again, thank you for visiting here.
 
-:heavy_check_mark: Project made by Nazaliss;\
-:heavy_check_mark: Applications made by Nazists that can already be used;\
-:heavy_check_mark: Applications that will be developed by Naziss;
+## 📚 Learning Process
 
-## :rocket: Technologies
+Here are some of my learning processes
 
-The following tools were used in this project:
+| ONLINE                                    | REPOSITORY                                                             |
+| ----------------------------------------- | ---------------------------------------------------------------------- |
+| [nanaz](https://nazaliss.github.io/nanaz) | [https://github.com/nazaliss/nanaz](https://github.com/nazaliss/nanaz) |
 
-- [Tailwindcss](https://tailwindcss.com/)
-- [daisyui](https://daisyui.com/)
+## 🌐 My Website
 
-## :white_check_mark: Requirements
+> Have Nazalis
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+- [isnazalis](https://nazalis.my.id/)
+- [nazalis](https://nazalis.com/)
 
-## :checkered_flag: Starting
+> Have Siamelu
 
-```bash
-# Clone this project
-$ git clone https://github.com/nazaliss/nazaliss.github.io.git
+- [senyummu](https://siamelu.my.id/)
 
-# Access
-$ cd nazaliss.github.io.git
+> Other Websites
 
-# Install dependencies
-$ npm init
-$ npm i -D tailwindcss
-$ npm i -D daisyui@latest
-$ npx tailwindcss init
+- [nisita](https://nisita.000webhostapp.com)
 
-# Configure your template paths
-# Configured daisyUI from your tailwind.config.js
-# Add the Tailwind directives to your CSS
+## My Social Media
 
-# Start the Tailwind CLI build process
-$ npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+> Follow me here
 
-# Start using Tailwind in your HTML
-# You can see HTML projects through Live Server or Live Preview
+- <a href="https://www.youtube.com/@nazaliss_" target="_blank">Youtube</a>
+- <a href="https://www.instagram.com/nazaliss_" target="_blank">Instagram</a>
+- <a href="https://twitter.com/nazaliss_" target="_blank">Twitter</a>
+- <a href="https://www.tiktok.com/@nazaliss_" target="_blank">TikTok</a>
+- <a href="https://www.facebook.com/nazaliss" target="_blank">Facebook</a>
 
-```
+> Contact me here
 
-How to configure complete can visit the official website from Tailwindcss and Daisyui.
+<a href="#" target="_blank"><img height="40" width="40" src="https://camo.githubusercontent.com/a6d8a862aecb6411e963408e9b3c7666ab357cdfecc14a3a13645eb489688cc8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c5f6f6c642e737667"  alt="Email" />
+</a> | <a href="#" target="_blank"><img height="40" width="40" src="https://camo.githubusercontent.com/945d32cdd8d51fe844ca8b2976914ae8786586607aee1cba24d7318e24b30411/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77686174736170702e737667"  alt="WhatsApp" />
+</a> | <a href="#" target="_blank"><img height="40" width="40" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667"  alt="Telegram" />
+</a>
 
-- Install and configure Tailwind CSS in [here](https://tailwindcss.com/docs/installation).
-- Install Daisyui [here](https://daisyui.com/docs/install/) and configure [here](https://daisyui.com/docs/config/).
-
-## 👋 Greetings from me
-
-Hello everyone, thank you for visiting my repository, I really expect criticism and suggestions from you for my self -development and maybe others.
-
-<!-- This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file. -->
+## 👋 Signature
 
 Made with :heart: by <a href="https://github.com/nazaliss" target="_blank">nazaliss</a>
 
 &#xa0;
 
-<a href="#top">Back to top</a>
+<a href="#top">⏫</a>
