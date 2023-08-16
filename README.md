@@ -28,7 +28,7 @@ Here are some of my learning processes
 
 > Have Nazalis
 
-[isnazalis](https://nazalis.my.id/)
+[isnazalis](https://nazalis.my.id/)<br>
 [nazalis](https://nazalis.com/)
 
 > Have Siamelu
